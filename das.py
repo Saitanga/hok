@@ -4,7 +4,7 @@ import random
 import time
 
 # Define the target host and port
-target_host = "bookeasee.infinityfreeapp.com"
+target_host = "YourWebsite"
 target_port = 80
 
 # List of source IP addresses
